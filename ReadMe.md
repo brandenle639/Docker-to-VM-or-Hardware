@@ -5,7 +5,7 @@ Convert a Docker Image to a VM or Hardware
 1. Install d2vm for this process (See link at bottom)
 
 # Docker to VM
-Use make-docker-to-vmfolder for the following process
+Use make-docker-to-vm folder for the following process
 
 1. Edit variables in make-vm-image.sh
 
